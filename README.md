@@ -11,7 +11,7 @@
 - 🔭 Atualmente focada em: **Projetos com Python e JavaScript**
 - 📚 Estudando: **Boas práticas de Clean Code**
 - 🧠 Interesses: **Automação, Web, Back-end**
-- 🛠️ Curto aprender na prática — criando projetos, errando e evoluindo
+- 🛠️ Aprendendo na prática — criando projetos, errando e evoluindo
 
 ---
 
